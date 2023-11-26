@@ -1,5 +1,4 @@
 #define DISPLAY_TICK 5
-//#include "display_base.h"
 #include "pdrawer.h"
 main()
 {
